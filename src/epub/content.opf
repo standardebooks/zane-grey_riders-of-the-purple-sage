@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-12-31T20:02:00Z</dc:date>
+		<meta property="dcterms:modified">2021-12-31T20:02:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -47,18 +46,18 @@
 		<meta property="term" refines="#subject-5">sh2010107436</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">On a ranch in southern Utah, Jane Withersteen refuses to marry a local elder of her church and together with her ranch hand, Bern Venters, and a mysterious gunman named Lassiter must face retaliatory violence, theft, and murder.</dc:description>
+		<dc:description id="description">On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In a small Mormon community in southern Utah, Jane Withersteen, a young, unmarried Mormon woman faces growing pressure to marry a local elder of her church. Elder Tull, a polygamist, already has two wives and seeks to marry Jane not just for her beauty, but to take control of the ranch her late father passed on to her.&lt;/p&gt;
 			&lt;p&gt;Jane’s resistance to marriage only serves to increase the mounting resentment against “Gentiles” (non-Mormons) in the area. Bern Venters, one of Jane Withersteen’s ranch hands and potential suitor, becomes the focus of this resentment and is nearly killed by Elder Tull and his men before a mysterious rider interrupts the procedure. The rider, a man named Lassiter, is a gunslinger known for his exploits in other Mormon settlements further north.&lt;/p&gt;
 			&lt;p&gt;Lassiter’s intercession on Venters’ behalf sets off a chain reaction of threats, violence, theft, and murder as Jane Withersteen fights to maintain both her ranch and her independence.&lt;/p&gt;
-			&lt;p&gt;First published in 1912, &lt;i&gt;Riders of the Purple Sage&lt;/i&gt; is considered have played a prominent role in shaping the Western genre. It was &lt;a href="https://standardebooks.org/ebooks/zane-grey"&gt;Zane Grey’s&lt;/a&gt; best-selling book and has remained popular ever since. It has been adapted multiple times to film, comics, and even an opera.&lt;/p&gt;
+			&lt;p&gt;First published in 1912, &lt;i&gt;Riders of the Purple Sage&lt;/i&gt; is considered to have played a prominent role in shaping the Western genre. It was &lt;a href="https://standardebooks.org/ebooks/zane-grey"&gt;Zane Grey’s&lt;/a&gt; best-selling book and has remained popular ever since.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1300</dc:source>
 		<dc:source>https://archive.org/details/ridersofpurplesa0000grey_d2m1</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">107582</meta>
+		<meta property="se:reading-ease.flesch">83.05</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Riders_of_the_Purple_Sage</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/zane-grey_riders-of-the-purple-sage</meta>
 		<dc:creator id="author">Zane Grey</dc:creator>
@@ -89,6 +88,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
