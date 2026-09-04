@@ -31,10 +31,10 @@
 		<dc:title id="title">Riders of the Purple Sage</dc:title>
 		<meta property="file-as" refines="#title">Riders of the Purple Sage</meta>
 		<dc:subject id="subject-1">Western stories</dc:subject>
-		<dc:subject id="subject-2">Utah -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Women ranchers -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Mormon women -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Polygamy -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Utah--Fiction</dc:subject>
+		<dc:subject id="subject-3">Women ranchers--Fiction</dc:subject>
+		<dc:subject id="subject-4">Mormon women--Fiction</dc:subject>
+		<dc:subject id="subject-5">Polygamy--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85146287</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
